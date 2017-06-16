@@ -100,3 +100,9 @@ i {
     font-size: 5em;
 	padding: 25px;
 }
+
+.front-bubble {
+  float:left;
+  margin-right: 10px;
+}
+
